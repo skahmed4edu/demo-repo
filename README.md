@@ -12,7 +12,7 @@ git push -u origin main
 # push an existing repository from the command line
 git remote add origin https://github.com/skahmed4edu/demo-repo.git
 git branch -M main
-git push -u origin main
+git push -u origin main 
 
 # Changes
 . added index.html, main.css
