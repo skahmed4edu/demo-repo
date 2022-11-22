@@ -14,6 +14,12 @@ git remote add origin https://github.com/skahmed4edu/demo-repo.git
 git branch -M main
 git push -u origin main 
 
+
+# 
+ssh -T -p 443 git@ssh.github.com
+ssh -T git@github.com
+
 # Changes
 . added index.html, main.css
+
 
