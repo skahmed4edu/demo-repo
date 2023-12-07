@@ -26,6 +26,10 @@ ssh -T git@github.com
 # feature branch file feature-files
 adding features
 
+# some features directo on master
+master branch features
+
+
 
 # created another testing-branch-changes
 to test to load the changes from master branch
