@@ -25,3 +25,6 @@ ssh -T git@github.com
 
 # feature branch file feature-files
 adding features
+
+# some features directo on master
+master branch features
